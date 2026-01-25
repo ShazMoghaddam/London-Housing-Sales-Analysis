@@ -1,9 +1,12 @@
-🏡 London Housing Sales Analysis (1995–2014)
-📌 Project Overview
+# 🏡 London Housing Sales Analysis (1995–2014)
+
+# 📌 Project Overview
+
 This analysis explores housing sales across London boroughs over a 20-year period (1995–2014). Using historical data, we reshaped, analyzed, and visualized trends 
 in the number of housing transactions to better understand changes in housing market activity across different areas of London.
 
-🔍 Key Analyses & Visualizations
+# 🔍 Key Analyses & Visualizations
+
 1. 📈 Sales Trends Over Time — Selected Boroughs
 We compared five boroughs: Barnet, Brent, Bexley, Camden, and Croydon.
 
@@ -36,7 +39,7 @@ The 2008–2009 dip across most boroughs.
 
 Increasing activity in several boroughs after 2010.
 
-📌 Summary of Findings
+# 📌 Summary of Findings
 London's housing market experienced strong growth in many areas from 1995 to 2014.
 
 The 2008 economic crisis caused a sharp decline in sales, followed by varying recovery rates.
