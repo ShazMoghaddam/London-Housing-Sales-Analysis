@@ -1,0 +1,11 @@
+{
+  "name": "Housing Sales",
+  "published_at": "https://data.london.gov.uk/dataset/housing-sales-2r8rw",
+  "source": "HM Land Registry, compiled by the Greater London Authority",
+  "licence": "Open Government Licence v2",
+  "file": "housing_sales_borough.csv, saved from housing-sales-borough.csv and otherwise unchanged",
+  "covers": "Homes sold each calendar year, January 1995 to December 2014",
+  "rows": "33 London boroughs (including the City of London), Inner and Outer London, 9 English regions, England, Wales, and England and Wales",
+  "excludes": "Sales below market value (for example Right to Buy), sales under £1,000 and sales over £20m",
+  "last_updated_by_publisher": "July 2015"
+}
